@@ -24,6 +24,25 @@
           },
           "url": "https://github.com/arcaia-net/mojihairpinmaker-kun-vpm/releases/download/v2.0.0-prerelease.1/com.mojihairpinmaker.editor-2.0.0-prerelease.1.zip",
           "zipSHA256": "d79aab71c1376f95f7c5241d81ad1fdcaeeab2c1a1c66dc768af09c040daa518"
+        },
+        "2.0.0-prerelease.2": {
+          "name": "com.mojihairpinmaker.editor",
+          "version": "2.0.0-prerelease.2",
+          "displayName": "MojiHairpinMaker-kun",
+          "description": "Unity Editorで文字ヘアピンを生成・保存するツール。開発中。",
+          "unity": "2022.3",
+          "license": "SEE LICENSE IN LICENSE.md",
+          "author": {
+            "name": "Arcaia",
+            "email": "58384635+arcaia-net@users.noreply.github.com",
+            "url": "https://github.com/arcaia-net"
+          },
+          "vpmDependencies": {},
+          "dependencies": {
+            "com.unity.formats.fbx": "4.2.1"
+          },
+          "url": "https://github.com/arcaia-net/mojihairpinmaker-kun-vpm/releases/download/v2.0.0-prerelease.2/com.mojihairpinmaker.editor-2.0.0-prerelease.2.zip",
+          "zipSHA256": "4077c81f65ced8100e6a90d3f42c7cbfdc09a6f225b88fe15eaa04340c8402a1"
         }
       }
     }
